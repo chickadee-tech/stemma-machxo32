@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name lattice)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/components/lattice.lib)(options "")(descr ""))
+  (lib (name Connector_DebugEdge)(type Legacy)(uri ${KIPRJMOD}/debug-edge/Connector_DebugEdge.lib)(options "")(descr ""))
+)

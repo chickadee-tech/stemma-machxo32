@@ -1,0 +1,6 @@
+[submodule "kicad-libs"]
+	path = kicad-libs
+	url = git@github.com:chickadee-tech/kicad-libs.git
+[submodule "debug-edge"]
+	path = debug-edge
+	url = git@github.com:debug-edge/DebugEdge.git
